@@ -1,0 +1,38 @@
+,,,,,,,
+,,,DISCOUNTED CASH FLOW VALUATION MODEL,,,,
+,,,,,,,
+,,,Required Inputs,,,,
+,,,Stock Ticker,KO,,"Current 
+Share Price",$80.22
+,,,EBITDA (Trailing 12 Months in Millions),"$13,828",,Shares Outstanding (Millions),"4,316"
+,,,"Free Cash Flow TTM
+(Trailing 12 Months in Millions)","$9,600",,Market Cap (Billions),$346.25
+,,,Free Cash Flow Growth Rate,3.74%,,Intrinsic Value,$65.70
+,,,"Discount Rate (WACC)
+",7.06%,,(Undervalued)/Overvalued,-18.11%
+,,,Terminal value EBITDA multiple: (EV/EBITDA),21.40,,,
+,,,EBITDA Growth Rate,3.15%,,,
+,,,Net Debt,"$3,972",,,
+,,,,,,,
+,,,FREE CASH FLOW DATA,,,,
+,,,Year,Free Cash Flow,"Assumed 
+Growth","Discounted 
+Value",EBITDA
+,,,1,"$10,278",3.7%,"$9,600","$14,263"
+,,,2,"$10,662",3.7%,"$9,302","$14,712"
+,,,3,"$11,060",3.7%,"$9,013","$15,174"
+,,,4,"$11,473",3.7%,"$8,733","$15,652"
+,,,5,"$11,902",3.7%,"$8,462","$16,144"
+,,,6,"$12,347",3.7%,"$8,200","$16,652"
+,,,7,"$12,808",3.7%,"$7,945","$17,176"
+,,,8,"$13,287",3.7%,"$7,698","$17,716"
+,,,9,"$13,783",3.7%,"$7,459","$18,273"
+,,,10,"$14,298",3.7%,"$7,228","$18,848"
+,,,,,"Present Value 
+of Year 1-10 
+Cash Flows:","$83,640",
+,,,"Terminal value EBITDA multiple: 
+",21.40,Terminal Value (PV),"$203,893",
+,,,,,Enterprise Value,"$287,533",
+,,,,,Less Net Debt,"$3,972",
+,,,,,Equity Value,"$283,561",
